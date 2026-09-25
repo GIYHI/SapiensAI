@@ -2,7 +2,7 @@
 (function() {
     'use strict';
 
-    var SHARED_API_KEY = 'sk-fMbKN3MEwjhPXLwkeRa3fXJUGZirlq1VBvshaCEmsm1WBxL4';
+    var SHARED_API_KEY = 'sk-.............';
     var MAX_REQUESTS = 100;
     var COOLDOWN_SECONDS = 30;
     var MAX_CONTEXT_MESSAGES = 30;
